@@ -1,0 +1,81 @@
+{
+  ".svelte-kit/build/app.js": {
+    "file": "app.js",
+    "src": ".svelte-kit/build/app.js",
+    "isEntry": true,
+    "imports": [
+      "_index-099ba245.js"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "entries/pages/__layout.svelte.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-099ba245.js",
+      "_Flex-b9b37364.js"
+    ],
+    "css": [
+      "assets/entries/pages/__layout.svelte-565f04f1.css",
+      "assets/g90-e1bd7109.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "entries/pages/error.svelte.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-099ba245.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "entries/pages/index.svelte.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-099ba245.js",
+      "_media_player_component.svelte_svelte_type_style_lang-d87d1871.js",
+      "_Flex-b9b37364.js"
+    ],
+    "css": [
+      "assets/entries/pages/index.svelte-009a08b2.css",
+      "assets/g90-e1bd7109.css"
+    ]
+  },
+  "src/routes/media_player/index.svelte": {
+    "file": "entries/pages/media_player/index.svelte.js",
+    "src": "src/routes/media_player/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-099ba245.js",
+      "_media_player_component.svelte_svelte_type_style_lang-d87d1871.js",
+      "_Flex-b9b37364.js"
+    ]
+  },
+  "src/routes/about/index.svelte": {
+    "file": "entries/pages/about/index.svelte.js",
+    "src": "src/routes/about/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-099ba245.js"
+    ]
+  },
+  "_index-099ba245.js": {
+    "file": "chunks/index-099ba245.js"
+  },
+  "_Flex-b9b37364.js": {
+    "file": "chunks/Flex-b9b37364.js",
+    "imports": [
+      "_index-099ba245.js"
+    ]
+  },
+  "_media_player_component.svelte_svelte_type_style_lang-d87d1871.js": {
+    "file": "chunks/media_player_component.svelte_svelte_type_style_lang-d87d1871.js",
+    "imports": [
+      "_index-099ba245.js"
+    ],
+    "css": [
+      "assets/media_player_component.svelte_svelte_type_style_lang-ee70aa88.css"
+    ]
+  }
+}
